@@ -34,4 +34,9 @@ About Me:
 
 
 
+Future Plan about this site:
+
+- As a summary of all subject for web dev in hacktiv8 course
+
+
 </html>
