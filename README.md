@@ -1,4 +1,8 @@
-About This Site: 
+<html>
+
+<header>
+
+<h1>About This Site:</h1> 
 
 - This is an Exercise site from hacktiv8 course
 
@@ -27,3 +31,7 @@ Used Tags & Syntaxes:
 
 About Me:
 - My Name Pragistyo Machmud, Hacktiv8 Student, on my way to be full-stack web dev.
+
+
+
+</html>
