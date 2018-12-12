@@ -2,32 +2,8 @@
 
 <header>
 
-<h1>About This Site:</h1> 
+<h1>For CV Purpose</h1> 
 
-- This is an Exercise site from hacktiv8 course
-
-
-Used Tags & Syntaxes: 
-
-- There is no syntaxes in this Site page yet.
-- Tags Used in this page site:
-	- html
-	- header
-	- link
-	- body
-	- img
-	- div
-	- ul
-	- li
-	- a
-	- p
-	- footer
-	- section
-	- h1
-	- h2
-	- h3
-	- h5
-	
 
 
 
