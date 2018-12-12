@@ -29,9 +29,6 @@ Used Tags & Syntaxes:
 	- h5
 	
 
-About Me:
-- My Name Pragistyo Machmud, Hacktiv8 Student, on my way to be full-stack web dev.
-
 
 
 </html>
